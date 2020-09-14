@@ -1,6 +1,6 @@
 var playlist = {
-  'Bonobo': 'Cirrus',
-  'The Rolling Stones': 'Gimme Shelter'
+  'Slowdive': 'Alison',
+  'My Bloody Valentine': 'Sometimes'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
@@ -8,4 +8,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return
 }
 
-updatePlaylist(playlist, 'Arcade Fire', 'Keep The Car Running')
+updatePlaylist(playlist, 'Phil Ochs', `Here\'s to the State of Mississippi`)
